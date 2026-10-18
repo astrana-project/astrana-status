@@ -24,6 +24,19 @@ status-website:
   # Browser-tab icon: the Astrana mark instead of Upptime's default
   favicon: https://astrana.org/favicon.ico
   faviconSvg: https://astrana.org/favicon.svg
+  # Matomo, self-hosted at wa.astrana.org (site 5). disableCookies: nothing is stored on the device.
+  js: |
+    var _paq = (window._paq = window._paq || []);
+    _paq.push(['disableCookies']);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = 'https://wa.astrana.org/';
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '5']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
   name: Astrana status
   introTitle: "Astrana service status"
   introMessage: Live availability of Astrana's public websites, checked every 5 minutes from GitHub. Incidents are tracked openly in this project's [GitHub issues](https://github.com/astrana-project/astrana-status/issues).
