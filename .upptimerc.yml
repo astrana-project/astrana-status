@@ -5,6 +5,7 @@ repo: astrana-status
 sites:
   - name: Website
     url: https://astrana.org
+    icon: https://astrana.org/favicon.svg # DuckDuckGo's favicon service still has the old site's icon cached
   # - name: Documentation # add when docs.astrana.org is in use
   #   url: https://docs.astrana.org/en/latest/
   - name: Mailing list signup
