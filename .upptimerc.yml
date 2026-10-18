@@ -5,8 +5,8 @@ repo: astrana-status
 sites:
   - name: Website
     url: https://astrana.org
-  - name: Documentation
-    url: https://docs.astrana.org/en/latest/
+  # - name: Documentation # add when docs.astrana.org is in use
+  #   url: https://docs.astrana.org/en/latest/
   - name: Mailing list signup
     url: https://mail-list.astrana.org/forms/nfrm_weLJnLY5
   - name: Analytics tracker
