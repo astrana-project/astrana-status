@@ -21,6 +21,9 @@ assignees:
 status-website:
   cname: status.astrana.org
   logoUrl: https://astrana.org/logo-512.png
+  # Browser-tab icon: the Astrana mark instead of Upptime's default
+  favicon: https://astrana.org/favicon.ico
+  faviconSvg: https://astrana.org/favicon.svg
   name: Astrana status
   introTitle: "Astrana service status"
   introMessage: Live availability of Astrana's public websites, checked every 5 minutes from GitHub. Incidents are tracked openly in this project's [GitHub issues](https://github.com/astrana-project/astrana-status/issues).
