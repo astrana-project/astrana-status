@@ -2,7 +2,7 @@
   {
     "name": "Website",
     "url": "https://astrana.org",
-    "icon": "https://icons.duckduckgo.com/ip3/astrana.org.ico",
+    "icon": "https://astrana.org/favicon.svg",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 438,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 408,
+    "timeDay": 408,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 536,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   }
 ]
