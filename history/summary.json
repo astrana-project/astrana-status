@@ -22,18 +22,20 @@
     "url": "https://mail-list.astrana.org/forms/nfrm_weLJnLY5",
     "icon": "https://icons.duckduckgo.com/ip3/mail-list.astrana.org.ico",
     "slug": "mailing-list-signup",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 379,
-    "timeWeek": 449,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1334,
+    "timeDay": 10000,
+    "timeWeek": 2845,
+    "timeMonth": 1334,
+    "timeYear": 1334,
+    "dailyMinutesDown": {
+      "2026-11-03": 5
+    }
   },
   {
     "name": "Analytics tracker",
