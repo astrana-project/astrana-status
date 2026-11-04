@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 545,
-    "timeWeek": 465,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 501,
+    "timeDay": 454,
+    "timeWeek": 481,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail-list.astrana.org.ico",
     "slug": "mailing-list-signup",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.31%",
     "uptimeDay": "71.54%",
     "uptimeWeek": "95.93%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 1321,
-    "timeDay": 7010,
-    "timeWeek": 2644,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
+    "time": 1278,
+    "timeDay": 6984,
+    "timeWeek": 2642,
+    "timeMonth": 1278,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-11-03": 410
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 689,
-    "timeWeek": 613,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 612,
+    "timeDay": 554,
+    "timeWeek": 635,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   }
 ]
